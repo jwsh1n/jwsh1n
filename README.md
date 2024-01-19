@@ -24,8 +24,4 @@
 
 <br><br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dkssud8150&theme=flat&column=7)](https://github.com/jwsh1n/)
-
-
-
 </div>
