@@ -6,7 +6,7 @@
 
 
 <div align="center">
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br>
 <br>
 <p>
   <a href="https://wldldnjs.tistory.com/" target="_blank"=><img src="https://img.shields.io/badge/TISTORY-F05138?style=flat-square&logo=tistory&logoColor=white"/>
