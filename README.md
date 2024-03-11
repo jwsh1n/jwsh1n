@@ -8,7 +8,9 @@
 <div align="center">
 <br><br><br><br><br><br><br><br><br><br>
 <br>
-<a href="https://wldldnjs.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/#fbf0c3?style=<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Tistory</title><path d="M0 3a3 3 0 1 0 6 0 3 3 0 0 0-6 0m9 18a3 3 0 1 0 6 0 3 3 0 0 0-6 0m0-9a3 3 0 1 0 6 0 3 3 0 0 0-6 0m0-9a3 3 0 1 0 6 0 3 3 0 0 0-6 0m9 0a3 3 0 1 0 6 0 3 3 0 0 0-6 0"/></svg>&logo=plastic&logoColor=#fa6607"/></a>
+<p>
+  <a href="https://wldldnjs.tistory.com/"><img src="https://img.shields.io/badge/tistory-F05138?style=flat-square&logo=tistory&logoColor=white"/>
+</p>
 
 <br><br><br><br><br>
 
